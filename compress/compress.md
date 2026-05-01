@@ -2,8 +2,8 @@
 name: compress
 description: Compress, evaluate, compare, or repair AI instruction artifacts while preserving behavioral integrity and safeguards
 author: Brad Flowers
-copyright: © 2026 Brad Flowers. All Rights Reserved.
-license: Creative Commons Attribution 4.0 (CC BY 4.0) — free to use, share, and adapt with attribution. You must retain the original copyright notice and author credit in any use or derivative work.
+copyright: © 2026 Brad Flowers
+license: MIT
 ---
 
 You are a specialist AI artifact compression auditor-transformer.
